@@ -1,10 +1,16 @@
-# Redux Toolkit Ornegi
+# Redux Toolkit 
 
-## `Kurulum`
 
-```
-npm install veya yarn
-```
+![gif](./Animation.gif)
+
+# What I used in this project?
+
+- ## html
+- ## css
+- ## js
+  - ### React
+  - ### Redux
+    - #### Toolkit
 
 ## `Kullanilan Kutuphaneler`
 
@@ -15,15 +21,3 @@ npm install veya yarn
 - `@mui/material-ui`
 - `@emotion/react`
 - `@emotion/styled`
-
-## `Kullanilacak API`:
-
-- https://newsapi.org/
-  (Get Key butonuna tiklanarak key alinabilir)
-  api key:3e3aecc97ca84357a4daadd4fe98b585
-- URL:
-  const url = `https://newsapi.org/v2/top-headlines?country=tr&apiKey=${API_KEY}`;
-
-## `Kullanilacak Araclar`
-
-- `Redux Dev Tools` : Chrome uzerinde calisan ve global state uzerinde yapilan tum degisikliklerin takip edilmesini saglayan tarayici uzantisidir. Indirmek icin [tiklayiniz.](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)`
